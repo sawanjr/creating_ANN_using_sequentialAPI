@@ -1,4 +1,4 @@
-# Side Effect Prediction using TensorFlow and scikit-learn
+# Side Effect Prediction using TensorFlow  , keras and scikit-learn
 
 This repository contains a machine learning model built using TensorFlow and scikit-learn to predict the likelihood of side effects from an experimental drug based on individual's age. The model is designed to distinguish between two groups: individuals under 65 years old and those who are 65 years or older.
 
